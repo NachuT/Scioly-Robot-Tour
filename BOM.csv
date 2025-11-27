@@ -1,9 +1,0 @@
-Name,Link,Price Singular,Number,Total+shipping
-PCB,https://github.com/NachuT/Scioly-Robot-Tour,0,1,0
-Motors + wires,https://www.adafruit.com/product/4416,14.45,2,38
-Ultrasonic,https://www.digikey.com/en/products/detail/adafruit-industries-llc/3942/9658069?gclsrc=aw.ds&gad_source=1&gad_campaignid=20232005509,4,1,6.5
-MPU6050,https://www.digikey.com/en/products/detail/dfrobot/SEN0142/6588492,14,1,16.5
-Pi Pico,https://www.digikey.com/en/products/detail/raspberry-pi/SC0917/16608257,5,1,7.5
-,,,,
-TOTAL with all tax shipping and tarrif,70.5,,,
-
